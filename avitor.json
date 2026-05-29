@@ -1,0 +1,12 @@
+{
+  "name": "aviator-backend",
+  "version": "1.0.0",
+  "description": "Aviator multiplayer server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
